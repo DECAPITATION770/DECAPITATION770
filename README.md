@@ -45,9 +45,9 @@
     <a href="https://open.spotify.com/track/2kHtHYMuelDvYy5YjjJPd3">
       <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
-    <br><br>
-    <sub style="color:#ff6a00; font-family:monospace;">Beat the Bastards</sub><br/>
-    <sub style="color:#777;">The Exploited</sub>
+    
+  <sub style="color:#ff6a00; font-family:monospace;">Beat the Bastards</sub><br/>
+  <sub style="color:#777;">The Exploited</sub>
   </div>
 </td>
 
