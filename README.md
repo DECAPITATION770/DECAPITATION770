@@ -4,20 +4,6 @@
 </p>
 
 
-<p align="center">
-  <sub>backend / django / fastapi / aiogram</sub>
-</p>
-
-<hr>
-
-
-
-<p align="center">
-  <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
-    <img src="https://i.scdn.co/image/ab67616d0000b273872768ae79e36007bf1f4bba" width="420"/>
-  </a>
-</p>
-<sub align="center">click to listen</sub>
 
 ## Ркуомендовано всем
 
@@ -52,6 +38,11 @@
 </table>
 
 <!-- STACK -->
+<p align="center">
+  <sub>backend / django / fastapi / aiogram</sub>
+</p>
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,telegram&theme=dark"/>
 </p>
