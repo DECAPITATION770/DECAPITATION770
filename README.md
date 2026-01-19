@@ -5,7 +5,7 @@
   </td>
 
   <td align="right" width="25%" style="border:none;">
-    <img src="assets/punk_skull_outline_glow.svg" width="120"/>
+    <img src="assets/punk_skull_glow.svg" width="120"/>
   </td>
 </tr>
 </table>
