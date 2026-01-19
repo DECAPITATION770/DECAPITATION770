@@ -1,14 +1,8 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-  <td align="center" width="75%" style="border:none;">
-    <img src="assets/gorehub_beige_glow.svg" width="420"/>
-  </td>
+<p align="center">
+  <img src="assets/gorehub_beige_glow.svg" width="420"/>
+  <img src="assets/punk_skull_outline_glow.svg" width="120"/>
+</p>
 
-  <td align="right" width="25%" style="border:none;">
-    <img src="assets/punk_skull_glow.svg" width="120"/>
-  </td>
-</tr>
-</table>
 
 <p align="center">
   <sub>backend / django / fastapi / aiogram</sub>
