@@ -1,9 +1,9 @@
 <div style="position: relative; text-align: center; margin-bottom: 20px;">
   <!-- Punk Skull в правом верхнем углу -->
-  <img src="punk_skull.png" alt="Punk Skull" style="position: absolute; top: 0; right: 0; width: 100px; height: auto; filter: drop-shadow(0 0 5px #FF0000);"/>
+  <img src="data/punk_skull.png" alt="Punk Skull" style="position: absolute; top: 0; right: 0; width: 100px; height: auto; filter: drop-shadow(0 0 5px #FF0000);"/>
   
   <!-- Основной баннер GOREHUB.WTF -->
-  <img src="gorehub.wtf.png" alt="GOREHUB.WTF" width="500" style="filter: drop-shadow(0 0 10px #FF0000);"/>
+  <img src="data/gorehub.wtf.png" alt="GOREHUB.WTF" width="500" style="filter: drop-shadow(0 0 10px #FF0000);"/>
   
   <!-- Мигающий баннер в стиле даркнет (добавьте GIF из ссылок ниже или загрузите в репозиторий) -->
   <img src="https://www.shutterstock.com/shutterstock/videos/1074672728/thumb/6.jpg?ip=x480" alt="Flashing Darknet Banner" width="400" style="margin-top: 20px; filter: brightness(1.2); animation: blink 1s infinite;"/>
@@ -23,7 +23,7 @@
 </style>
 
 <!-- Разделитель с кровавыми брызгами -->
-<img src="pngegg-2.png" alt="Разделитель" width="100%" style="margin: 20px 0; opacity: 0.8;"/>
+<img src="data/pngegg-2.png" alt="Разделитель" width="100%" style="margin: 20px 0; opacity: 0.8;"/>
 
 <!-- О себе: Фокус на реальных технологиях -->
 <div align="center">
@@ -37,11 +37,11 @@
   </p>
   
   <!-- Тающий череп как дополнительный элемент -->
-  <img src="background.png" alt="Фон" width="250" style="margin-top: 20px; filter: brightness(1.1);"/>
+  <img src="data/background.png" alt="Фон" width="250" style="margin-top: 20px; filter: brightness(1.1);"/>
 </div>
 
 <!-- Разделитель -->
-<img src="pngegg-2.png" alt="Разделитель" width="100%" style="margin: 20px 0; opacity: 0.8;"/>
+<img src="data/pngegg-2.png" alt="Разделитель" width="100%" style="margin: 20px 0; opacity: 0.8;"/>
 
 ### 🛠️ Навыки и Технологии
 - **AI & Machine Learning**: TensorFlow, PyTorch, Scikit-learn — модели для компьютерного зрения, NLP, предиктивной аналитики.
@@ -65,7 +65,7 @@
 </div>
 
 <!-- Разделитель -->
-<img src="pngegg-2.png" alt="Разделитель" width="100%" style="margin: 20px 0; opacity: 0.8;"/>
+<img src="data/pngegg-2.png" alt="Разделитель" width="100%" style="margin: 20px 0; opacity: 0.8;"/>
 
 ### 🔗 Контакты
 - 🌐 [Portfolio/Website](https://your-site.com) — Мои проекты и кейсы.
