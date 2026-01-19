@@ -3,13 +3,8 @@
   <img src="assets/punk_skull_glow.svg" width="120"/>
 </p>
 
-
-
-## Ркуомендовано всем
-
 <table>
 <tr>
-
 <td align="center" width="33%">
 <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
   <img src="https://i.scdn.co/image/ab67616d0000b273872768ae79e36007bf1f4bba" width="100%"/>
