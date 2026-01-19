@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/punk_skull_outline_glow.svg" width="240"/>
+  <img src="assets/punk_skull_glow.svg" width="240"/>
 </p>
 
 
