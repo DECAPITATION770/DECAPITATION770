@@ -68,7 +68,8 @@
 </tr>
 </table>
 
-<hr style="border:0; height:0.2px; background:#002; margin:10px 0;">
+<img src="data/pngegg-2.png" width="110"/>
+
 
 <p align="center" style="opacity:.9;">
 
