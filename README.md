@@ -1,4 +1,11 @@
-## ARCHIVE
+<p align="center">
+  <img src="assets/punk_skull_outline_glow.svg" width="240"/>
+</p>
+
+
+<p align="center">
+  <img src="assets/gorehub_beige_glow.svg" width="420"/>
+</p>
 
 <table>
 <tr>
