@@ -100,7 +100,7 @@
   <br>
   <strong>Python Backend Developer</strong>
   <br>
-  <code>Django</code> • <code>FastAPI</code> • <code>REST API</code>
+  <code>Django/DRF</code> • <code>FastAPI</code> 
   <br><br>
   <a href="https://t.me/evoremus">
     <img src="https://img.shields.io/badge/-@evoremus-f42900?style=flat&logo=telegram&logoColor=white" alt="Telegram">
