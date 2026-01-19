@@ -16,9 +16,10 @@
   </sub>
 </p>
 
+
+
 <table width="100%" cellspacing="0" cellpadding="8">
 <tr>
-
 <td width="33%" align="center">
   <div style="background:#111; border-radius:12px; padding:10px;">
     <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
@@ -30,11 +31,10 @@
       <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
     <br><br>
-    <sub style="color:#ff6a00; font-family:monospace;">All Hail the Goat</sub><br/>
+    <strong><sub style="color:#ff6a00; font-family:monospace;">All Hail the Goat</sub></strong><br/>
     <sub style="color:#777;">Hellripper</sub>
   </div>
 </td>
-
 <td width="33%" align="center">
   <div style="background:#111; border-radius:12px; padding:10px;">
     <a href="https://open.spotify.com/track/2kHtHYMuelDvYy5YjjJPd3">
@@ -45,12 +45,11 @@
     <a href="https://open.spotify.com/track/2kHtHYMuelDvYy5YjjJPd3">
       <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
-    
-  <sub style="color:#ff6a00; font-family:monospace;">Beat the Bastards</sub><br/>
-  <sub style="color:#777;">The Exploited</sub>
+    <br><br>
+    <strong><sub style="color:#ff6a00; font-family:monospace;">Beat the Bastards</sub></strong><br/>
+    <sub style="color:#777;">The Exploited</sub>
   </div>
 </td>
-
 <td width="33%" align="center">
   <div style="background:#111; border-radius:12px; padding:10px;">
     <a href="https://open.spotify.com/track/08c44mv6lHEfUHlPtVg8Yp">
@@ -62,13 +61,14 @@
       <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
     <br><br>
-    <sub style="color:#ff6a00; font-family:monospace;">Unanswered</sub><br/>
+    <strong><sub style="color:#ff6a00; font-family:monospace;">Unanswered</sub></strong><br/>
     <sub style="color:#777;">Suicide Silence</sub>
   </div>
 </td>
-
 </tr>
 </table>
+
+
 
 <hr style="border:0; height:0.2px; background:#002; margin:10px 0;">
 
