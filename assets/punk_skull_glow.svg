@@ -1,0 +1,28 @@
+<svg width="300" height="300" viewBox="0 0 300 300"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- glow layer -->
+  <image x="0" y="0" width="300" height="300"
+         xlink:href="punk_skull.png"
+         filter="url(#glow)">
+    <animate attributeName="opacity"
+             values="0.3;1;0.3"
+             dur="1.2s"
+             repeatCount="indefinite"/>
+  </image>
+
+  <!-- base image -->
+  <image x="0" y="0" width="300" height="300"
+         xlink:href="punk_skull.png"/>
+</svg>
