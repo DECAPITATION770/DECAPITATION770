@@ -14,11 +14,6 @@
 
 <hr>
 
-<!-- NOISE SEPARATOR -->
-<p align="center">
-  <img src="assets/noise.png" width="100%" height="12"/>
-</p>
-
 ## ARCHIVE
 
 <table>
