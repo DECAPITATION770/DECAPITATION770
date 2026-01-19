@@ -2,7 +2,7 @@
   <img src="assets/gorehub_beige_glow.svg" width="420"/>
   <img src="assets/punk_skull_glow.svg" width="120"/>
 </p>
-
+** всем рекомендловано послешать до смерти **
 <table>
 <tr>
 <td align="center" width="33%">
