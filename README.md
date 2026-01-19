@@ -1,11 +1,11 @@
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-  <td align="right" width="25%">
-    <img src="assets/punk_skull_glow.svg" width="120"/>
+  <td align="center" width="75%" style="border:none;">
+    <img src="assets/gorehub_beige_glow.svg" width="420"/>
   </td>
 
-  <td align="center" width="75%">
-    <img src="assets/gorehub_beige_glow.svg" width="420"/>
+  <td align="right" width="25%" style="border:none;">
+    <img src="assets/punk_skull_outline_glow.svg" width="120"/>
   </td>
 </tr>
 </table>
