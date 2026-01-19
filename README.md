@@ -11,7 +11,6 @@
 <hr>
 
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/79PE0a8VfZKSxhLVeUq3rd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <p align="center">
   <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
@@ -26,10 +25,10 @@
 <tr>
 
 <td align="center" width="33%">
-<a href="https://your-site.com/post01">
-  <img src="assets/background.png" width="100%"/>
+<a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
+  <img src="https://i.scdn.co/image/ab67616d0000b273872768ae79e36007bf1f4bba" width="100%"/>
 </a>
-<a href="https://your-site.com/post01"><sub>POST 01</sub></a><br/>
+<a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd"><sub>POST 01</sub></a><br/>
 <sub>backend systems / silence</sub>
 </td>
 
