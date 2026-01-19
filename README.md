@@ -34,9 +34,9 @@
 
 ### 📜 Статистика Из Бездны
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой_юзернейм&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_юзернейм&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой_юзернейм&theme=radical&hide_border=true&date_format=M j, Y" alt="Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DECAPITATION770&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DECAPITATION770&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DECAPITATION770&theme=radical&hide_border=true&date_format=M j, Y" alt="Streak" height="180"/>
 </div>
 
 ### 🏆 Трофеи Тьмы
