@@ -1,18 +1,21 @@
-<!-- TOP RIGHT ANCHOR -->
-<p align="right">
-  <img src="assets/punk_skull_glow.svg" width="150"/>
-</p>
+<table width="100%">
+<tr>
+  <td align="left" width="25%">
+    <img src="assets/punk_skull_glow.svg" width="120"/>
+  </td>
 
-<!-- MAIN LOGO -->
-<p align="center">
-  <img src="assets/gorehub_beige_glow.svg" width="420"/>
-</p>
+  <td align="center" width="75%">
+    <img src="assets/gorehub_beige_glow.svg" width="420"/>
+  </td>
+</tr>
+</table>
 
 <p align="center">
   <sub>backend / django / fastapi / aiogram</sub>
 </p>
 
 <hr>
+
 
 ## ARCHIVE
 
