@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/gorehub_beige_glow.svg" width="420"/>
-  <img src="assets/punk_skull_outline_glow.svg" width="120"/>
+  <img src="assets/punk_skull_glow.svg" width="120"/>
 </p>
 
 
