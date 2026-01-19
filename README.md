@@ -4,11 +4,9 @@
     DECAPITATION770
   </h3>
   
-  <!-- Панк-череп как аватар/центральный элемент -->
-  <img src="punk_skull.png" alt="Панк-Череп" width="220" style="border-radius: 50%; border: 3px solid #FF0000; box-shadow: 0 0 20px #8B0000;"/>
+  <img src="data/punk_skull.png" alt="Панк-Череп" width="220" style="border-radius: 50%; border: 3px solid #FF0000; box-shadow: 0 0 20px #8B0000;"/>
   
-  <!-- Тающий красный череп ниже -->
-  <img src="background.png" alt="Тающий Череп" width="300" style="margin-top: 20px; filter: brightness(1.2);"/>
+  <img src="data/background.png" alt="Тающий Череп" width="300" style="margin-top: 20px; filter: brightness(1.2);"/>
 </div>
 
 <!-- Кровавый разделитель -->
