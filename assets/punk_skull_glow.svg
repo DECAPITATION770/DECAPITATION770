@@ -14,7 +14,7 @@
 
   <!-- glow layer -->
   <image x="0" y="0" width="300" height="300"
-         xlink:href="assets/punk_skull.png"
+         xlink:href="https://raw.githubusercontent.com/DECAPITATION770/DECAPITATION770/main/assets/punk_skull.png"
          filter="url(#glow)">
     <animate attributeName="opacity"
              values="0.3;1;0.3"
@@ -24,5 +24,5 @@
 
   <!-- base image -->
   <image x="0" y="0" width="300" height="300"
-         xlink:href="assets/punk_skull.png"/>
+         xlink:href="https://raw.githubusercontent.com/DECAPITATION770/DECAPITATION770/main/assets/punk_skull.png"/>
 </svg>
