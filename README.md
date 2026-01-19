@@ -2,7 +2,7 @@
 <div align="center">
   <img src="<IMAGE_URL_1>" alt="Оккультный Череп" width="300"/>
   <h1 style="color: #FF0000; font-family: 'Courier New', monospace;">☠️ Фрхадов: Мастер Теней ☠️</h1>
-  <img src="<IMAGE_URL_3>" alt="Кровавые Брызги" width="100%"/> <!-- Брызги крови как разделитель -->
+  <img src="data/pngedd-2.png" alt="Кровавые Брызги" width="100%"/>
 </div>
 
 <!-- О себе в мистическом стиле -->
