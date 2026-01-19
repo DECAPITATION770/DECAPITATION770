@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-  <td align="left" width="25%">
+  <td align="right" width="25%">
     <img src="assets/punk_skull_glow.svg" width="120"/>
   </td>
 
