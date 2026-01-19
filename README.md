@@ -106,24 +106,3 @@
   </a>
 </p>
 
-
-
-
-
-<td width="33%" align="center">
-  <div style="background:#111; border-radius:12px; padding:10px;">
-    <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
-      <img src="https://i.scdn.co/image/ab67616d0000b273872768ae79e36007bf1f4bba"
-           width="100%" style="border-radius:10px;"/>
-    </a>
-    <br><br>
-    <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
-      <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
-    </a>
-    <br>
-    <sub style="color:#666; font-size:10px;">30 sec preview • no registration</sub>
-    <br><br>
-    <sub style="color:#ff6a00; font-family:monospace;">All Hail the Goat</sub><br/>
-    <sub style="color:#777;">Hellripper</sub>
-  </div>
-</td>
