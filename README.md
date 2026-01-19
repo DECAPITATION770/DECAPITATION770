@@ -22,11 +22,11 @@
 </td>
 
 <td align="center" width="33%">
-<a href="https://your-site.com/post03">
-  <img src="assets/background.png" width="100%"/>
+<a href="https://open.spotify.com/track/08c44mv6lHEfUHlPtVg8Yp?si=0ef37b2afc1c44b5">
+  <img src="https://i.scdn.co/image/ab67616d00001e0222e71bcfff6065e89b71bc9b" width="100%"/>
 </a>
-<a href="https://your-site.com/post03"><sub>POST 03</sub></a><br/>
-<sub>telegram bots / loops</sub>
+<a href="https://open.spotify.com/track/08c44mv6lHEfUHlPtVg8Yp?si=0ef37b2afc1c44b5"><sub>Unanswered</sub></a><br/>
+<sub>Suicide Silence</sub>
 </td>
 
 </tr>
