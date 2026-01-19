@@ -11,7 +11,7 @@
 <hr>
 
 
-## ARCHIVE
+## Ркуомендовано всем
 
 <table>
 <tr>
@@ -42,24 +42,6 @@
 
 </tr>
 </table>
-
-<table>
-<tr>
-<td align="center" width="33%"></td>
-
-<td align="center" width="33%">
-<a href="https://your-site.com/post04">
-  <img src="assets/background.png" width="100%"/>
-</a>
-<a href="https://your-site.com/post04"><sub>POST 04</sub></a><br/>
-<sub>django / pressure</sub>
-</td>
-
-<td align="center" width="33%"></td>
-</tr>
-</table>
-
-<hr>
 
 <!-- STACK -->
 <p align="center">
