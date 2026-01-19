@@ -1,8 +1,8 @@
 <div align="center">
   <img src="data/gorehub.wtf.png" alt="GOREHUB.WTF" width="600" style="filter: drop-shadow(0 0 10px #FF0000);"/>
-  <h1 style="color: #FF0000; font-family: 'Courier New', monospace; font-size: 42px; text-shadow: 0 0 10px #8B0000;">
-    ☠️ ТВОЙ_ЮЗЕРНЕЙМ: ХРАНИТЕЛЬ ТЕНЕЙ ☠️
-  </h1>
+  <h3 style="color: #FF0000; font-family: 'Courier New', monospace; font-size: 42px; text-shadow: 0 0 10px #8B0000;">
+    DECAPITATION770
+  </h3>
   
   <!-- Панк-череп как аватар/центральный элемент -->
   <img src="punk_skull.png" alt="Панк-Череп" width="220" style="border-radius: 50%; border: 3px solid #FF0000; box-shadow: 0 0 20px #8B0000;"/>
