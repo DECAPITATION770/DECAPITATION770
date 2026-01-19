@@ -30,7 +30,6 @@
     <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
       <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
-    <br><br>
     <strong><sub style="color:#ff6a00; font-family:monospace;">All Hail the Goat</sub></strong><br/>
     <sub style="color:#777;">Hellripper</sub>
   </div>
@@ -45,7 +44,6 @@
     <a href="https://open.spotify.com/track/2kHtHYMuelDvYy5YjjJPd3">
       <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
-    <br><br>
     <strong><sub style="color:#ff6a00; font-family:monospace;">Beat the Bastards</sub></strong><br/>
     <sub style="color:#777;">The Exploited</sub>
   </div>
@@ -56,7 +54,6 @@
       <img src="https://i.scdn.co/image/ab67616d00001e0222e71bcfff6065e89b71bc9b"
            width="100%" style="border-radius:10px;"/>
     </a>
-    <br><br>
     <a href="https://open.spotify.com/track/08c44mv6lHEfUHlPtVg8Yp">
       <img src="https://img.shields.io/badge/▶_LISTEN-ff6a00?style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
