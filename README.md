@@ -23,7 +23,7 @@
 </div>
 
 <!-- Ещё один кровавый разделитель -->
-<img src="pngegg-2.png" alt="Кровавые Брызги" width="100%" style="margin: 30px 0; opacity: 0.9;"/>
+<img src="data/pngegg-2.png" alt="Кровавые Брызги" width="100%" style="margin: 30px 0; opacity: 0.9;"/>
 
 ### 🩸 Артефакты Тёмного Мастерства
 - **Проклятый Python** 🐍: TensorFlow, PyTorch — summon AI из ада.
@@ -41,7 +41,7 @@
 
 ### 🏆 Трофеи Тьмы
 <div align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=твой_юзернейм&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-readme-trophy.vercel.app/?username=DECAPITATION770&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <!-- Кровавый разделитель -->
@@ -57,7 +57,7 @@
   <p style="color: #FF0000; font-size: 18px; margin-top: 40px;">
     ⚠️ Enter the void... GOREHUB.WTF awaits those who dare. 🩸
   </p>
-  <img src="gorehub.wtf.png" alt="GOREHUB.WTF Footer" width="400" style="filter: drop-shadow(0 0 15px #8B0000);"/>
+  <img src="data/gorehub.wtf.png" alt="GOREHUB.WTF Footer" width="400" style="filter: drop-shadow(0 0 15px #8B0000);"/>
 </div>
 
 <!-- SEO комментарии -->
