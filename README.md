@@ -1,6 +1,6 @@
 <!-- TOP RIGHT ANCHOR -->
 <p align="right">
-  <img src="assets/punk_skull_outline_glow.svg" width="150"/>
+  <img src="assets/punk_skull_glow.svg" width="150"/>
 </p>
 
 <!-- MAIN LOGO -->
