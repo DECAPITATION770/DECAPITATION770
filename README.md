@@ -68,7 +68,7 @@
 </tr>
 </table>
 
-<img src="data/pngegg-2.png" width="110"/>
+<img src="data/pngegg-2.png"/>
 
 
 <p align="center" style="opacity:.9;">
