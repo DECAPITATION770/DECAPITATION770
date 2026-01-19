@@ -15,11 +15,10 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/79PE0a8VfZKSxhLVeUq3rd">
-    <img src="assets/spotify_fake_player.png" width="420"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b273872768ae79e36007bf1f4bba" width="420"/>
   </a>
 </p>
 <sub align="center">click to listen</sub>
-
 
 ## Ркуомендовано всем
 
