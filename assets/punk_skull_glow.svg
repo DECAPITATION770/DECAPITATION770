@@ -18,10 +18,10 @@
       <feGaussianBlur stdDeviation="2" result="blur"/>
       <feColorMatrix type="matrix"
         values="
-          1 0 0 0 0
+          10 0 0 0 0
           0 0 0 0 0
           0 0 0 0 0
-          0 0 0 1 0"/>
+          0 0 0 10 0"/>
       <feGaussianBlur stdDeviation="4"/>
     </filter>
   </defs>
@@ -29,7 +29,7 @@
   <!-- glowing outline -->
   <use href="#skull" filter="url(#edgeGlow)">
     <animate attributeName="opacity"
-             values="10;20;30;1;4"
+             values="0.2;0.9;0.3;1;0.4"
              dur="5s"
              repeatCount="indefinite"/>
   </use>
