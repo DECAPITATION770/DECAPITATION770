@@ -30,7 +30,7 @@
   <use href="#skull" filter="url(#edgeGlow)">
     <animate attributeName="opacity"
              values="0.2;0.9;0.3;1;0.4"
-             dur="1.6s"
+             dur="5s"
              repeatCount="indefinite"/>
   </use>
 
