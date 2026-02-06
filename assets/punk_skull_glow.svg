@@ -29,7 +29,7 @@
   <!-- glowing outline -->
   <use href="#skull" filter="url(#edgeGlow)">
     <animate attributeName="opacity"
-             values="0.2;0.9;0.3;1;0.4"
+             values="10;20;30;1;4"
              dur="5s"
              repeatCount="indefinite"/>
   </use>
